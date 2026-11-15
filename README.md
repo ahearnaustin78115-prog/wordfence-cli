@@ -34,7 +34,7 @@ If you'd like to install Wordfence CLI manually or use CLI for development, you 
 
 ## Usage
 
-You can run `wordfence help` for a full list of options that can be passed to Wordfence CLI. Read more about the [configuration options](docs/Configuration.md) that can be passed to Wordfence CLI.
+Run `wordfence --version` to display the installed Wordfence CLI version. Run `wordfence configure` to interactively set global options in the configuration file. See the [configuration documentation](docs/Configuration.md) for details.
 
 #### Scanning a directory for malware
 
